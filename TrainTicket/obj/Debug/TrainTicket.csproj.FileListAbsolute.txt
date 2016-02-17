@@ -1,0 +1,11 @@
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\TrainTicket.dll.config
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\TrainTicket.dll
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\TrainTicket.pdb
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\Dapper.dll
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\MySql.Data.dll
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\Dapper.pdb
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\Dapper.xml
+D:\WorkPath\TrainTicektSimple\TrainTicket\obj\Debug\TrainTicket.dll
+D:\WorkPath\TrainTicektSimple\TrainTicket\obj\Debug\TrainTicket.pdb
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\WorkPath\TrainTicektSimple\TrainTicket\bin\Debug\System.Threading.Tasks.Dataflow.xml

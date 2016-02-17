@@ -1,0 +1,7 @@
+D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\bin\Debug\TrainTicketStressTest.exe.config
+D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\bin\Debug\TrainTicketStressTest.exe
+D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\bin\Debug\TrainTicketStressTest.pdb
+D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\bin\Debug\NLog.dll
+D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\bin\Debug\NLog.xml
+D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\obj\Debug\TrainTicketStressTest.exe
+D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\obj\Debug\TrainTicketStressTest.pdb

@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Train  Ticket Simple</h1>
+    <p class="lead">简单火车票系统.</p>
+  
+</div>
+@using(Html.BeginForm("PostTicket","Home"))
+{ 
+<div class="form-group">
+  乘车日期：@Html.DropDownList("Dates",(IEnumerable<SelectListItem>)ViewBag.Dates,"===请选择乘车日期===", new { @class = "form-control" })
+   车次： <select name="Trans" id="Trans" class="form-control">
+    <option value="">===请选择车次===</option>
+    <option value="CRH-001">CRH-001</option>
+</select>
+</div>
+<p>&nbsp;</p>
+<div class="form-group">
+    起点站：
+    <select name="StartStep" id="StartStep" class="form-control">
+
+
+        <option value="1" selected="selected">测试站点001</option>
+        <option value="2">测试站点002</option>
+        <option value="3">测试站点003</option>
+        <option value="4">测试站点004</option>
+        <option value="5">测试站点005</option>
+        <option value="6">测试站点006</option>
+        <option value="7">测试站点007</option>
+        <option value="8">测试站点008</option>
+        <option value="9">测试站点009</option>
+        <option value="10">测试站点010</option>
+    </select>
+    终点站：
+    <select name="EndStep" id="EndStep" class="form-control">
+
+        <option value="1" >测试站点001</option>
+        <option value="2" >测试站点002</option>
+        <option value="3" >测试站点003</option>
+        <option value="4" >测试站点004</option>
+        <option value="5" >测试站点005</option>
+        <option value="6" >测试站点006</option>
+        <option value="7" >测试站点007</option>
+        <option value="8" >测试站点008</option>
+        <option value="9" >测试站点009</option>
+        <option value="10" selected="selected">测试站点010</option>
+    </select>
+
+</div>
+<p></p>
+<div class="form-group">
+    <input type="submit" value="提交"  class="form-control"/>
+
+</div>
+}
