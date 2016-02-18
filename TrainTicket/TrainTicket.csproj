@@ -50,7 +50,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAL\TrainRespotion.cs" />
     <Compile Include="Models\Line.cs" />
     <Compile Include="Models\Step.cs" />
     <Compile Include="Models\Ticket.cs" />

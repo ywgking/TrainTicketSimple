@@ -95,7 +95,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TrainTicektSimple\TrainTicketSimple.csproj">
+    <ProjectReference Include="..\TrainTicketSimple\TrainTicketSimple.csproj">
       <Project>{870E051B-891B-4264-AF9D-E0E656527131}</Project>
       <Name>TrainTicketSimple</Name>
     </ProjectReference>
