@@ -5,3 +5,11 @@ D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\bin\Debug\NLog.dll
 D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\bin\Debug\NLog.xml
 D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\obj\Debug\TrainTicketStressTest.exe
 D:\WorkPath\TrainTicektSimple\TrainTicketStressTest\obj\Debug\TrainTicketStressTest.pdb
+F:\TrainTicketSimple\TrainTicketStressTest\bin\Debug\TrainTicketStressTest.exe.config
+F:\TrainTicketSimple\TrainTicketStressTest\bin\Debug\TrainTicketStressTest.exe
+F:\TrainTicketSimple\TrainTicketStressTest\bin\Debug\TrainTicketStressTest.pdb
+F:\TrainTicketSimple\TrainTicketStressTest\bin\Debug\NLog.dll
+F:\TrainTicketSimple\TrainTicketStressTest\bin\Debug\NLog.xml
+F:\TrainTicketSimple\TrainTicketStressTest\obj\Debug\TrainTicketStressTest.csprojResolveAssemblyReference.cache
+F:\TrainTicketSimple\TrainTicketStressTest\obj\Debug\TrainTicketStressTest.exe
+F:\TrainTicketSimple\TrainTicketStressTest\obj\Debug\TrainTicketStressTest.pdb

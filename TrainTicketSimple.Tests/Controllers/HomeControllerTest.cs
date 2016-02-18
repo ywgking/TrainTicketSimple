@@ -43,7 +43,7 @@ namespace TrainTicektSimple.Tests.Controllers
         {
 
             HomeController controller = new HomeController();
-            int Dates=20160219;
+            int Dates = int.Parse(DateTime.Now.AddDays(2).ToString("yyyyMMdd"));
             string Trans="CRH-001";
           
             Random myrandom = new Random(DateTime.Now.Millisecond);
@@ -54,7 +54,6 @@ namespace TrainTicektSimple.Tests.Controllers
 
               ViewResult result = controller.PostTicket(Dates, Trans, start,start+steps) as ViewResult;
               Assert.IsNotNull(result.ViewBag.Message);
-              Console.WriteLine(result.ViewBag.Message);
             }
         }
     }
